@@ -1,0 +1,2 @@
+# wifi-based-calling
+This is a wifi based prototype for calling over wifi protocol 8080 . The android based application is right now only working on hotspot but the work is still going on and we are trying to build  it to work on a wifi enabled router . But we are facing a problem of firewall which is restricting us from connecting to uur college's router remotely .. Always ready for anyone's input ....please try the app and help us
